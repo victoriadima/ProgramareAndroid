@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- Define the array for program types -->
+    <string-array name="program_types">
+        <item>Medii</item>
+        <item>Superioare</item>
+        <item>Speciale</item>
+        <item>Doctorat</item>
+    </string-array>
+
+    <!-- Define the array for specialty options -->
+    <string-array name="specialty_options">
+        <item>Inf</item>
+        <item>IT</item>
+        <item>Design</item>
+    </string-array>
+
+    <!-- Define the array for language options -->
+    <string-array name="language_options">
+        <item>Engleza</item>
+        <item>Franceza</item>
+        <item>Germana</item>
+    </string-array>
+</resources>
